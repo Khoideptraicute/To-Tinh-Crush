@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Trên thế giới có 7 tỷ người người mà anh thích chỉ có e thôi ❤',
     desc: 'có phải e thích anh đúng hăm 😁😁',
-    btnYes: 'thích anh nhiều lắm <33',
+    btnYes: 'thích anh nhiều lắm <333',
     btnNo: 'Không, Anh trai à :3',
     question:'có thể cho biết lý do vì sao thích được hăm 🙄🙄',
     btnReply: 'Gửi cho anh <3',
