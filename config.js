@@ -1,19 +1,16 @@
 const CONFIG = {
     introTitle: 'Hân à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Anh có điều muốn nói với em á :333333`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
+    title: 'Trên thế giới có 7 tỷ người người mà anh yêu chỉ có e thôi <3',
+    desc: 'có phải e thíc anh đúng hăm :33 ',
+    btnYes: 'thích anh nhiều lắm <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'có thể cho biết lý do vì sao thích được hăm :3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'vì anh đẹp trai <3',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    messDesc: 'Hết dịch anh qua chở e đi chơi nhá <3.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://facebook.com' //sykhoi.phanba.9/
 }
